@@ -1,0 +1,6 @@
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Core\bin\Debug\PruebaKonecta.Core.dll
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Core\bin\Debug\PruebaKonecta.Core.pdb
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Core\obj\Debug\PruebaKonecta.Core.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Core\obj\Debug\PruebaKonecta.Core.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Core\obj\Debug\PruebaKonecta.Core.dll
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Core\obj\Debug\PruebaKonecta.Core.pdb

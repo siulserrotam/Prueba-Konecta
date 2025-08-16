@@ -1,0 +1,60 @@
+@model PruebaKonecta.Core.Colaborador
+
+@{
+    ViewBag.Title = "Registrar Colaborador";
+}
+
+<h2>Registrar Colaborador</h2>
+
+<!-- Mensaje de éxito o error -->
+@if (ViewBag.Mensaje != null)
+{
+    <div style="color: green;">@ViewBag.Mensaje</div>
+}
+
+@using (Html.BeginForm("Registrar", "Colaborador", FormMethod.Post))
+{
+    <div>
+        <label>Número de Identificación:</label>
+        @Html.TextBoxFor(m => m.NumeroIdentificacion)
+    </div>
+    <div>
+        <label>Nombres:</label>
+        @Html.TextBoxFor(m => m.Nombres)
+    </div>
+    <div>
+        <label>Apellidos:</label>
+        @Html.TextBoxFor(m => m.Apellidos)
+    </div>
+    <div>
+        <label>Dirección:</label>
+        @Html.TextBoxFor(m => m.Direccion)
+    </div>
+    <div>
+        <label>Email:</label>
+        @Html.TextBoxFor(m => m.Email)
+    </div>
+    <div>
+        <label>Teléfono:</label>
+        @Html.TextBoxFor(m => m.Telefono)
+    </div>
+    <div>
+        <label>Salario:</label>
+        @Html.TextBoxFor(m => m.Salario)
+    </div>
+    <div>
+        <label>Área:</label>
+        @Html.TextBoxFor(m => m.IdArea)
+    </div>
+    <div>
+        <label>Sexo:</label>
+        @Html.TextBoxFor(m => m.IdSexo)
+    </div>
+    <div>
+        <label>Fecha de Ingreso:</label>
+        @Html.TextBoxFor(m => m.FechaIngreso, "{0:yyyy-MM-dd}", new { type = "date" })
+    </div>
+
+    <br />
+    <button type="submit">Registrar</button>
+}

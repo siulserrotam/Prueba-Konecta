@@ -1,0 +1,2 @@
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Web\obj\Debug\PruebaKonecta.Web.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Web\obj\Debug\PruebaKonecta.Web.csproj.CoreCompileInputs.cache

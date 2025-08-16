@@ -1,0 +1,14 @@
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\PruebaKonecta.Data.dll.config
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\PruebaKonecta.Data.dll
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\PruebaKonecta.Data.pdb
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\EntityFramework.dll
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\PruebaKonecta.Core.dll
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\PruebaKonecta.Core.pdb
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\EntityFramework.xml
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\obj\Debug\PruebaKonecta.Data.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\obj\Debug\PruebaKonecta.Data.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\obj\Debug\PruebaKo.358481DD.Up2Date
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\obj\Debug\PruebaKonecta.Data.dll
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.Data\obj\Debug\PruebaKonecta.Data.pdb

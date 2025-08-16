@@ -1,0 +1,31 @@
+@model PruebaKonecta.Core.Colaborador
+
+@{
+    ViewBag.Title = "Consultar Colaborador";
+}
+
+<h2>Consultar Colaborador</h2>
+
+<!-- Mensaje de error -->
+@if (ViewBag.Error != null)
+{
+    <div style="color: red;">@ViewBag.Error</div>
+}
+
+@using (Html.BeginForm("Consultar", "Colaborador", FormMethod.Post))
+{
+    <div>
+        <label>Número de Identificación:</label>
+        <input type="text" name="numeroIdentificacion" />
+        <button type="submit">Consultar</button>
+    </div>
+}
+
+@if (Model != null)
+{
+    <h3>Datos del Colaborador:</h3>
+    <p><strong>Nombres:</strong> @Model.Nombres</p>
+    <p><strong>Apellidos:</strong> @Model.Apellidos</p>
+    <p><strong>Salario:</strong> @Model.Salario</p>
+    <p><strong>Área:</strong> @Model.IdArea</p>
+}

@@ -1,0 +1,2 @@
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.API\obj\Debug\PruebaKonecta.API.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Prueba\PruebaKonecta\PruebaKonecta.API\obj\Debug\PruebaKonecta.API.csproj.CoreCompileInputs.cache
