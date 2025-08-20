@@ -56,6 +56,7 @@ El sistema permite registrar y consultar colaboradores mediante un servicio web 
 ## Instalación y uso
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/tuusuario/konecta-colaboradores.git
+   git clone https://github.com/siulserrotam/Prueba-Konecta.git
 ﻿# Prueba-Konecta
+
 
