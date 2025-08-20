@@ -1,5 +1,7 @@
-﻿using System.Data.Entity;
-using PruebaKonecta.Core; // Referencia a la capa Core
+﻿using System.Collections.Generic;
+using System.Data.Entity;
+using System.Runtime.Remoting.Contexts;
+using PruebaKonecta.Core;
 
 namespace PruebaKonecta.Data
 {

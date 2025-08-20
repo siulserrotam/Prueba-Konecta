@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Net.Http;
-using System.Net.Http.Headers; 
+using System.Net.Http.Headers;
 using System.Text;
 using System.Web.Mvc;
 using Newtonsoft.Json;
@@ -10,7 +10,7 @@ namespace PruebaKonecta.Web.Controllers
 {
     public class ColaboradorController : Controller
     {
-        private readonly string apiBase = "https://localhost:44361/";
+        private readonly string apiBase = "https://localhost:44385/";
 
         public ActionResult Registrar() => View();
 

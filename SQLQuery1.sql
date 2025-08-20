@@ -32,10 +32,10 @@ CREATE TABLE Colaborador (
     CONSTRAINT FK_Colaborador_Sexo FOREIGN KEY (IdSexo) REFERENCES Sexo(IdSexo)
 );
 
--- Áreas
+-- ï¿½reas
 INSERT INTO Area (NombreArea) VALUES ('Recursos Humanos');
-INSERT INTO Area (NombreArea) VALUES ('Tecnología');
-INSERT INTO Area (NombreArea) VALUES ('Administración');
+INSERT INTO Area (NombreArea) VALUES ('Tecnologia');
+INSERT INTO Area (NombreArea) VALUES ('Administracion');
 
 -- Sexo
 INSERT INTO Sexo (NombreSexo) VALUES ('Masculino');
@@ -46,4 +46,6 @@ INSERT INTO Colaborador
     (NumeroIdentificacion, Nombres, Apellidos, Direccion, Email, Telefono, Salario, FechaIngreso, IdArea, IdSexo)
 VALUES
     ('12345678', 'Luis', 'Torres', 'Calle 123', 'luis.torres@konecta.com', '3001234567', 2500000, '2025-08-16', 2, 1);
+
+
 		

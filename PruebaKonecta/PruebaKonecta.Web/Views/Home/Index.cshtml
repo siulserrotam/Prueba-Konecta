@@ -1,16 +1,14 @@
 @{
+    Layout = "~/Views/Shared/_Layout.cshtml";
     ViewBag.Title = "Inicio";
 }
 
-<h2>Sistema de Gestión de Colaboradores - Konecta</h2>
+<div class="text-center">
+    <h2 class="text-primary mb-4">Sistema de Gestión de Colaboradores - Konecta</h2>
+    <p class="lead">Seleccione una de las siguientes opciones:</p>
 
-<p>Seleccione una opción:</p>
-
-<ul>
-    <li>
-        @Html.ActionLink("Registrar Colaborador", "Registrar", "Colaborador")
-    </li>
-    <li>
-        @Html.ActionLink("Consultar Colaborador", "Consultar", "Colaborador")
-    </li>
-</ul>
+    <div class="d-grid gap-3 col-6 mx-auto mt-4">
+        <a href="@Url.Action("Registrar", "Colaborador")" class="btn btn-success btn-lg">Registrar Colaborador</a>
+        <a href="@Url.Action("Consultar", "Colaborador")" class="btn btn-primary btn-lg">Consultar Colaborador</a>
+    </div>
+</div>
